@@ -24,7 +24,7 @@ At the heart of the system is a **Crius SE v2.5** flight controller, which recei
 - 🔄 Gyroscope  
 - ⬆️ Barometer  
 
-These PID control enable the drone to maintain stability and respond accurately to external stimuli and control commands.
+The PID control enable the drone to maintain stability and respond accurately to external stimuli and control commands.
 
 ---
 

@@ -11,7 +11,7 @@ The drone follows the classic quadcopter structure, consisting of four brushless
 Each motor is paired with a **30A ESC** (Electronic Speed Controller) which controls motor speed and direction. The motors are brushless, allowing for high-frequency rotation and efficient upward thrust generation.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30fa63ad-2df1-43e7-81f0-fbddbbbed016" width="500"/>
+  <img src="https://github.com/user-attachments/assets/30fa63ad-2df1-43e7-81f0-fbddbbbed016" width="700"/>
 </p>
 ---
 

@@ -10,6 +10,8 @@ The drone follows the classic quadcopter structure, consisting of four brushless
 
 Each motor is paired with a **30A ESC** (Electronic Speed Controller) which controls motor speed and direction. The motors are brushless, allowing for high-frequency rotation and efficient upward thrust generation.
 
+![IMG_4147](https://github.com/user-attachments/assets/30fa63ad-2df1-43e7-81f0-fbddbbbed016)
+
 ---
 
 ## 🧠 Flight Controller & Sensors
@@ -40,7 +42,17 @@ The flight logic is programmed using **Arduino**. Due to its complexity, the cod
 ## 📸 Media
 
 ### 🔧 Current Drone Setup
-![IMG_4147](https://github.com/user-attachments/assets/30fa63ad-2df1-43e7-81f0-fbddbbbed016)
+<h4>This is the motherboard</h4>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/305dd2e3-cd88-4123-9569-f0b6b5110a08" width="500"/>
+</p>
+
+<h4>This is the view of the ESC (bottom)</h4>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b353d311-c86f-4c61-a8b5-9d1275b237b8" width="500"/>
+</p>
+
+
 
 <p align="center">
 

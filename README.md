@@ -53,13 +53,6 @@ The flight logic is programmed using **Arduino**. Due to its complexity, the cod
   <img src="https://github.com/user-attachments/assets/b353d311-c86f-4c61-a8b5-9d1275b237b8" width="500"/>
 </p>
 
-
-
-<p align="center">
-
-  <img src="YOUR_IMAGE_PATH_HERE" alt="Drone Image" width="500"/>
-</p>
-
 ### 📹 Video Demo
 
 <p align="center">

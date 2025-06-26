@@ -40,7 +40,7 @@ The flight logic is programmed using **Arduino**. Due to its complexity, the cod
 ## 📸 Media
 
 ### 🔧 Current Drone Setup
-![drone](https://github.com/user-attachments/assets/b6da2a2e-f829-480b-afb1-8e84c06e9a20)
+![IMG_4147](https://github.com/user-attachments/assets/30fa63ad-2df1-43e7-81f0-fbddbbbed016)
 
 <p align="center">
 
